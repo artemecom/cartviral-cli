@@ -1,0 +1,15 @@
+{
+  "name": "cartviral",
+  "version": "1.0.0",
+  "description": "CartViral from the terminal: product videos, UGC clips, photos, carousels and ads for e-commerce. For people and for AI agents (Claude Code, Codex, Cursor).",
+  "type": "module",
+  "bin": { "cartviral": "cartviral.mjs" },
+  "files": ["cartviral.mjs", "skills", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["cartviral", "ai video", "product video", "ugc", "ecommerce", "tiktok", "reels", "shorts", "cli", "mcp", "claude", "agent"],
+  "homepage": "https://cartviral.com/mcp",
+  "repository": { "type": "git", "url": "git+https://github.com/artemecom/cartviral-cli.git" },
+  "bugs": { "email": "support@cartviral.com" },
+  "license": "MIT",
+  "author": "CartViral <support@cartviral.com>"
+}
