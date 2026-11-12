@@ -11,6 +11,8 @@ It runs the same tools as the CartViral connector for Claude and ChatGPT, on you
 curl -fsSL https://cartviral.com/install.sh | sh
 ```
 
+Open a new terminal window after it, or use the full path `~/.local/bin/cartviral` right away.
+
 Or without installing, with Node.js 18+:
 
 ```bash
